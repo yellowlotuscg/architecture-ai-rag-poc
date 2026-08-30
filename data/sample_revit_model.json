@@ -1,0 +1,26 @@
+{
+  "model_id": "synthetic-revit-demo-001",
+  "project": "Example Accessible Dwelling",
+  "jurisdiction": "SYNTHETIC-DEMO",
+  "code_edition": "SYNTHETIC-2026",
+  "elements": [
+    {
+      "id": "door-101",
+      "category": "Door",
+      "type": "Single Flush Door",
+      "properties": {"clear_width_inches": 31, "serves": "accessible route", "location": "dwelling entry"}
+    },
+    {
+      "id": "bath-201",
+      "category": "Room",
+      "type": "Accessible Bathroom",
+      "properties": {"turning_diameter_inches": 58, "lavatory_front_clearance_inches": 30}
+    },
+    {
+      "id": "bed-301",
+      "category": "Room",
+      "type": "Sleeping Room",
+      "properties": {"egress_clear_opening_sqft": 5.4}
+    }
+  ]
+}

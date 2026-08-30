@@ -1,0 +1,8 @@
+[project]
+name = "architecture-ai-rag-poc"
+version = "0.1.0"
+description = "Offline proof of concept for Revit-style model data plus building-code retrieval"
+requires-python = ">=3.9"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]

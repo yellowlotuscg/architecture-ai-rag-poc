@@ -1,0 +1,20 @@
+# Synthetic Building Code Excerpt
+
+## 1001.2 Accessible Route
+### Clear width
+An accessible route serving a dwelling entry shall maintain a clear width of not less than 36 inches. Doors in the route shall provide at least 32 inches of clear opening.
+
+### Exception
+Where an existing wall condition prevents the required clear width, an alteration may use 32 inches of clear width when the authority having jurisdiction approves the documented constraint.
+
+## 1002.4 Bathroom Turning Space
+### Turning diameter
+A bathroom serving an accessible dwelling unit shall provide a clear turning space with a 60 inch diameter, unless the approved design uses a compliant T-shaped turning space.
+
+### Fixture clearance table
+Lavatory front clearance: 30 inches minimum.
+Water closet side clearance: 16 inches minimum from centerline to side wall.
+
+## 1003.1 Bedroom Egress
+### Emergency escape
+Each sleeping room shall have an operable emergency escape and rescue opening with a minimum clear opening of 5.7 square feet, subject to local amendments and approved alternate provisions.
