@@ -34,7 +34,7 @@ PYTHONPATH=src python3 -m unittest discover -s tests -v
 
 ## Public scope
 
-This repository is a small, inspectable technical proof. It intentionally excludes firm-specific controls, private document handling, production connectors, and deployment infrastructure. The private architecture-firm readiness roadmap is maintained separately in Alfred.
+This repository is a small, inspectable technical proof. It intentionally excludes firm-specific controls, private document handling, production connectors, and deployment infrastructure.
 
 ## Technical evolution
 
