@@ -30,7 +30,7 @@ cd architecture-ai-rag-poc
 PYTHONPATH=src python3 demo.py
 ```
 
-Run those commands from the repository root. The script reads `data/sample_building_code.txt` and `data/sample_revit_model.json`, then prints JSON. Pass `--code`, `--model`, or `--question` to point at different local files or ask a different question.
+The script reads `data/sample_building_code.txt` and `data/sample_revit_model.json`, then prints JSON. Pass `--code`, `--model`, or `--question` to point at different local files or ask a different question.
 
 ## Tests
 
